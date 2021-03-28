@@ -27,3 +27,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Riley & Carson Project
+Progress 3-28-21: Riley Smith and me have consulted with eachother and know what we need to do to the kineticsgui.py. This includes removing the CSV tab in the header, moving the CSV save button to the spectrotometer tab, and possibly change the font color to white from black. This is dependant on whether or not my kineticsgui.py is having the same issue that his kineticsgui.py is. It also may just be the computer resorting to its default font color, not the kineticsgui.py. We are still doing research on how to complete these objectives and determining how to get the kineticsgui.py work through my terminal.
